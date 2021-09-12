@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 - I write mostly PocketMine-MP plugins
 - Creator of MagicWE2 World Editor
-- Developer at NetherGamesMC
+- Designer at NetherGamesMC
 <!-- - i am not that creative when it comes to writing. //TODO enhance readme -->
 ### Contact
 - Discord: XenialDan#5713
