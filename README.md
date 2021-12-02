@@ -1,8 +1,11 @@
 ### XenialDan / inxomnia
 
 **Hey! My name is Dan and I am known for breaking Minecraft in all ways possible.**
-I am the creator of the ✨[MagicWE2](https://github.com/thebigsmileXD/MagicWE2)✨ World Editor, designed to use as many MCPE features as possible to make editing your worlds easy on mobile & desktop devices. Additionally i am Pixel-Artist & BlockBench Animator / Model Designer at [@NetherGamesMC](https://github.com/NetherGamesMC)
-### Recent Information
+
+I am the creator of the ✨[MagicWE2](https://github.com/thebigsmileXD/MagicWE2)✨ World Editor, designed to use as many MCPE features as possible to make editing your worlds easy on mobile & desktop devices.
+
+Additionally i am Pixel-Artist & BlockBench Animator / Model Designer at [@NetherGamesMC](https://github.com/NetherGamesMC)
+### Recent information about updates & projects (12/2/2021)
 I am currently very limited on my time and low on funds. In case you want an update / fix to be released urgently, feel free to make a donation on any of the following services:
 - **Onlyfans**
 https://onlyfans.com/xenialdan
@@ -18,8 +21,7 @@ Leave your name in the description of the donation and include which plugin / li
 In case you are planning to contact me, do not just write "Hi" or else your message is likely to get ignored. State your reason for writing. You may text me without doing a friend request.
 https://dontasktoask.com/ https://nohello.net/
 
-- Discord: `XenialDan#5713` or `inxomnia#5713`
-- Twitter: XenialDan
-- Telegram: XenialDan
-### 
+- 🎮 Discord: `XenialDan#5713` or `inxomnia#5713`
+- 🐦 Twitter: [XenialDan](https://twitter.com/XenialDan)
+### Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=thebigsmileXD&count_private=true&include_all_commits=true)
