@@ -5,10 +5,8 @@
 I am the creator of the ✨[MagicWE2](https://github.com/thebigsmileXD/MagicWE2)✨ World Editor, designed to use as many MCPE features as possible to make editing your worlds easy on mobile & desktop devices.
 
 Additionally i am Pixel-Artist & BlockBench Animator / Model Designer at [@NetherGamesMC](https://github.com/NetherGamesMC)
-### Recent information about updates & projects (12/2/2021)
+### Recent information about updates & projects (2/17/2022)
 I am currently very limited on my time and low on funds. In case you want an update / fix to be released urgently, feel free to make a donation on any of the following services:
-- **Onlyfans**
-https://onlyfans.com/xenialdan
 - **Buymeacoffee**
 https://www.buymeacoffee.com/XenialDan
 - **PayPal Me**
