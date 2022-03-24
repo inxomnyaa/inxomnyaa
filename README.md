@@ -19,7 +19,7 @@ Leave your name in the description of the donation and include which plugin / li
 In case you are planning to contact me, do not just write "Hi" or else your message is likely to get ignored. State your reason for writing. You may text me without doing a friend request.
 https://dontasktoask.com/ https://nohello.net/
 
-- 🎮 Discord: `XenialDan#5713` or `inxomnia#5713`
+- 🎮 Discord: `XenialDan#5713`
 - 🐦 Twitter: [XenialDan](https://twitter.com/XenialDan)
 ### Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=thebigsmileXD&count_private=true&include_all_commits=true)
