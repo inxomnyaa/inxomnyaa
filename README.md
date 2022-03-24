@@ -1,4 +1,4 @@
-### XenialDan / inxomnia
+### XenialDan
 
 **Hey! My name is Dan and I am known for breaking Minecraft in all ways possible.**
 
