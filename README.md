@@ -27,7 +27,7 @@ https://www.buymeacoffee.com/XenialDan
 - **PayPal Me**
 https://www.paypal.me/XenialDan
 
-If you include your `@name` in the description of the donation, you can claim the donator rank on my 🎮 Discord: `discord.gg/Vh7Usbs`. For updates and bugfixes it's best to contact me first regarding the plugin / library you want updates for, as I don't provide support for some of my projects anymore.
+In case you include your `@name` in the description of the donation, you can claim the donor rank on my 🎮 Discord: `discord.gg/Vh7Usbs`. For updates and bugfixes, it is best to contact me first regarding the plugin/library you want updates for, as I no longer provide support for some of my projects.
 
 *Thank you for your generous support and have a nice day!*
 ### Contact 📮
