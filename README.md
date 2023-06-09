@@ -1,4 +1,4 @@
-### XenialDan 👨‍💻
+### inxomnyaa 👨‍💻
 
 **Hey!👋 My name is Dan and I am known for breaking Minecraft in all ways possible 😅**
 
@@ -41,3 +41,4 @@ https://dontasktoask.com/ https://nohello.net/
 
 
 ### *#BlameMojang*
+Old names: @XenialDan, @thebigsmileXD
