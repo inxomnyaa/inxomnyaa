@@ -2,18 +2,18 @@
 
 **Hey!👋 My name is Dan and I am known for breaking Minecraft in all ways possible 😅**
 
-I am the creator of the ✨[MagicWE2](https://github.com/thebigsmileXD/MagicWE2)✨ World Editor, which aims at simplifying world editing on mobile and desktop devices by utilizing many of the MCPE exclusive features, and simultaneously providing beginner-friendly tools and commands.
+I am the creator of the ✨[MagicWE2](https://github.com/inxomnyaa/MagicWE2)✨ World Editor, which aims at simplifying world editing on mobile and desktop devices by utilizing many of the MCPE exclusive features, and simultaneously providing beginner-friendly tools and commands.
 
 Outstanding are advanced features such as block and palette parsing using blockstates, command completion, selection outlines, the WAILA boss bar and an info scoreboard, as well as support for various file formats for sharing and importing structures.
 
-Furthermore, I have been working as a pixel artist and BlockBench animator/model designer at [@NetherGamesMC](https://github.com/NetherGamesMC) for a while, however now I have put focus on my very own server project:
+Furthermore, I have been working as a developer, pixel artist and BlockBench animator/model designer at [@NetherGamesMC](https://github.com/NetherGamesMC) for a while, however now I have put focus on my very own server project:
 
 [🐺WolvesFortress🏰](https://github.com/WolvesFortress), an upcoming fantasy MMORPG realm with focus on immersive storytelling and gameplay.
 
-I no longer maintain many of my PocketMine-MP plugins. I still work mostly on [MagicWE2](https://github.com/thebigsmileXD/MagicWE2) and the associated libraries.
+I no longer maintain many of my PocketMine-MP plugins. I still sometimes work on [MagicWE2](https://github.com/inxomnyaa/MagicWE2) and the associated libraries.
 ### Commissions 💌
 If you are interested in hiring me for a project, I am happy to accept paid assignments. Feel free to contact me via the options listed below and provide some details about the project and its scope.
-You can browse some of my projects on [🎨Artfol](https://www.artfol.me/xenialdan) and [🐦Twitter](https://twitter.com/XenialDan/media).
+You can browse some of my projects on [🎨Artfol](https://www.artfol.me/inxomnyaa) and [🐦Twitter](https://twitter.com/inxomnyaa/media).
 
 At the moment I am offering:
 - Pixel Art
