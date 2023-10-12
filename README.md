@@ -34,8 +34,8 @@ In case you include your `@name` in the description of the donation, you can cla
 In case you are planning to contact me, do not just write "Hi" or else your message is likely to get ignored. State your reason for writing. You may text me without doing a friend request.
 https://dontasktoask.com/ https://nohello.net/
 
-- 🎮 Discord: `XenialDan#5713`
-- 🐦 Twitter: [XenialDan](https://twitter.com/XenialDan)
+- 🎮 Discord: `inxomnyaa#5713`
+- 🐦 Twitter: [inxomnyaa](https://twitter.com/inxomnyaa)
 ### Github Stats & Open Source Events 📊
 [![An image of @xenialdan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xenialdan)](https://holopin.io/@xenialdan)
 ![](https://github-readme-stats.vercel.app/api?username=inxomnyaa&count_private=true&include_all_commits=true)
