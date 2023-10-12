@@ -36,7 +36,8 @@ https://dontasktoask.com/ https://nohello.net/
 
 - 🎮 Discord: `XenialDan#5713`
 - 🐦 Twitter: [XenialDan](https://twitter.com/XenialDan)
-### Github Stats 📊
+### Github Stats & Open Source Events 📊
+[![An image of @xenialdan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xenialdan)](https://holopin.io/@xenialdan)
 ![](https://github-readme-stats.vercel.app/api?username=thebigsmileXD&count_private=true&include_all_commits=true)
 
 
