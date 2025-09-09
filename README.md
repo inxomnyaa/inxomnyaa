@@ -37,9 +37,11 @@ https://dontasktoask.com/ https://nohello.net/
 - 🎮 Discord: `inxomnyaa`
 - 🐦 Twitter: [inxomnyaa](https://twitter.com/inxomnyaa)
 ### Github Stats & Open Source Events 📊
-[![An image of @xenialdan's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/xenialdan)](https://holopin.io/@xenialdan)
+[![An image showing my Holopin badges, with link to view my full Holopin profile](https://holopin.me/xenialdan)](https://holopin.io/@xenialdan)
+
 ![An image showing stats like total stars, commits etc. and some weird score that really doesn't say anything](https://github-readme-stats.vercel.app/api?username=inxomnyaa&count_private=true&include_all_commits=true)
 
+[![An image showing my TryHackMe badge](https://tryhackme-badges.s3.amazonaws.com/thebigsmilexd.png)](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1448883)
 
 ### *#BlameMojang*
 Old names: @XenialDan, @thebigsmileXD
