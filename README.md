@@ -41,7 +41,7 @@ https://dontasktoask.com/ https://nohello.net/
 
 ![An image showing stats like total stars, commits etc. and some weird score that really doesn't say anything](https://github-readme-stats.vercel.app/api?username=inxomnyaa&count_private=true&include_all_commits=true)
 
-[![An image showing my TryHackMe badge](https://tryhackme-badges.s3.amazonaws.com/thebigsmilexd.png)](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1448883)
+[![An image showing my TryHackMe badge](https://tryhackme-badges.s3.amazonaws.com/thebigsmilexd.png)](https://tryhackme.com/p/thebigsmilexd)
 
 ### *#BlameMojang*
 Old names: @XenialDan, @thebigsmileXD
